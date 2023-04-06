@@ -7,7 +7,9 @@
 
 根据一些论文的思想判断，深度学习的基础框架如图所示：
 
-![深度学习中的模块化改进](https://cdn.jsdelivr.net/gh/Cola-without-Sugar/markdown_img/202302221729277.png)
+![深度学习中的模块化改进](https://cdn.jsdelivr.net/gh/Cola-without-Sugar/markdown_img/202303271416840.png)
+
+
 
 如图片中所述，图像的模块化处理主要分为对图像的预处理部分、数据集处理部分、主干特征提取网络、权重共享与更新模块、特征融合模块与输出编码分类器模块。
 
