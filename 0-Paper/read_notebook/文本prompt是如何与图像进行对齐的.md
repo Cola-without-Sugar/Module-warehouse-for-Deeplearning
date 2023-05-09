@@ -1,2 +1,4 @@
 ## 文本prompt是如何与图像对齐的
 
+文本的embeding阶段实际上是将我们输入的词向量通过组合Token数据作为条件注入图像合成的控制数据中，在stable diffusion中使用的文本对齐组件为Clip
+
